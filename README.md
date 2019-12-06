@@ -4,38 +4,38 @@ Em cada etapa os leds acedem de forma única informando o funcionamento do progr
 Por exemplo, quando a senha é verificada como correta o led azul acende, indicando que a passagem foi liberada; caso a passagem seja negada, o led vermelho acende; caso ocorra 3 erros consecutivos da senha, o sistema trava e os dois leds ficam ativos.
 
 
-Aplicações:
+## Aplicações:
 Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como empresas, escolas, condomínios, residências, mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
 
 
-Possíveis melhorias:
+## Possíveis melhorias:
 -Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
 -A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
 
 
-Problemas Encontrados:
--Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
--A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
+## Problemas Encontrados:
+<br />-Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
+<br />-A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
 
 
-Materiais utilizados:
+## Materiais utilizados:
 <br />-STM32F030F4P6 (GREENPILL)
 <br />-Gravador ST-LINK V2
--Display oLED
--Teclado matricial 4x4
--Módulo Bluetooth HC-05
--Dois LEDs
--Protoboard e jumpers
+<br />-Display oLED
+<br />-Teclado matricial 4x4
+<br />-Módulo Bluetooth HC-05
+<br />-Dois LEDs
+<br />-Protoboard e jumpers
 
 
-Dispósitivos do microprocessador utilizados:
--GPI
--USART
--SPI
+## Dispositivos do microprocessador utilizados:
+<br />-GPIO
+<br />-USART
+<br />-SPI
 
 
-Membros:
-Gabriel Castro Marinho              405229
-Gabriela Casimiro de Lima           370065
-Rodrigo Maciel Braz                 385618
-Francisco Thierry Oliveira Sousa    427340
+## Membros:
+<br />Gabriel Castro Marinho              405229
+<br />Gabriela Casimiro de Lima           370065
+<br />Rodrigo Maciel Braz                 385618
+<br />Francisco Thierry Oliveira Sousa    427340
