@@ -21,7 +21,7 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-Protoboard e jumpers
 
 
-## Dispositivos do microprocessador utilizados:
+## Dispositivos do microcontrolador utilizados:
 -GPIO
 <br />-USART
 <br />-SPI
