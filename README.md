@@ -7,17 +7,6 @@ Por exemplo, quando a senha é verificada como correta o led azul acende, indica
 ## Aplicações:
 Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como empresas, escolas, condomínios, residências, mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
 
-
-## Possíveis melhorias:
--Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
-<br />-A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
-
-
-## Problemas Encontrados:
--Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
-<br />-A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
-
-
 ## Materiais utilizados:
 -STM32F030F4P6 (GREENPILL)
 <br />-Gravador ST-LINK V2
@@ -33,9 +22,18 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-USART
 <br />-SPI
 
+## Possíveis melhorias:
+-Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
+<br />-A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
+
+
+## Problemas Encontrados:
+-Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
+<br />-A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
+
 
 ## Membros:
-Gabriel Castro Marinho              405229
+Gabriel Castro Marinho                    405229
 <br />Gabriela Casimiro de Lima           370065
 <br />Rodrigo Maciel Braz                 385618
 <br />Francisco Thierry Oliveira Sousa    427340
