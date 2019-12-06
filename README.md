@@ -3,13 +3,16 @@ O objetivo do projeto é usar um teclado matricial de membrana para realizar o a
 Em cada etapa os leds acedem de forma única informando o funcionamento do programa com base na mensagem apresentada ao usuário.
 Por exemplo, quando a senha é verificada como correta o led azul acende, indicando que a passagem foi liberada; caso a passagem seja negada, o led vermelho acende; caso ocorra 3 erros consecutivos da senha, o sistema trava e os dois leds ficam ativos.
 
+
 Aplicações:
 Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, tais como empresas, escolas, condomínios, residências, mostrando assim a versatilidade do sistema, sendo necessária fazer apenas poucas alterações para que ele funcione perfeitamente nesses locais.
+
 
 Possíveis melhorias:
 .Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
 .A implementação de 3 erros para a senha-mestre.
 .Utilização de um banco de dados para armazenagem dos dados mais segura.
+
 
 Problemas Encontrados:
 .Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
@@ -24,6 +27,12 @@ Materiais utilizados:
 .Módulo Bluetooth HC-05
 .Dois leds
 .Protoboard e jumpers
+
+
+Dispósitivos do microprocessador utilizados:
+.GPIO
+.USART
+.SPI
 
 
 Membros:
