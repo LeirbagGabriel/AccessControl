@@ -9,30 +9,30 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 
 
 Possíveis melhorias:
-.Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
-.A implementação de 3 erros para a senha-mestre.
+-Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
+-A implementação de 3 erros para a senha-mestre.
 .Utilização de um banco de dados para armazenagem dos dados mais segura.
 
 
 Problemas Encontrados:
-.Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
-.A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
+-Não foi possível adicionar mais funcionalidades pois o sistema utiliza 4Bits para enviar dados.
+-A implementação da hora de chegada não foi possível pois o a função utilizada não funciona na GreenPill pois excede o espaço da memória flash.
 
 
 Materiais utilizados:
-.STM32F030F4P6 - GREENPILL
-.Gravador ST-LINK V2
-.oLed
-.Teclado matricial 4x4
-.Módulo Bluetooth HC-05
-.Dois leds
-.Protoboard e jumpers
+-STM32F030F4P6 - GREENPILL
+-Gravador ST-LINK V2
+-oLed
+-Teclado matricial 4x4
+-Módulo Bluetooth HC-05
+-Dois leds
+-Protoboard e jumpers
 
 
 Dispósitivos do microprocessador utilizados:
-.GPIO
-.USART
-.SPI
+-GPIO
+-USART
+-SPI
 
 
 Membros:
