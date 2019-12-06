@@ -25,6 +25,7 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 ## Possíveis melhorias:
 -Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
 <br />-A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
+<br />-Implementar a opção de destravar o sistema a partir do bluetooth.
 
 
 ## Problemas Encontrados:
