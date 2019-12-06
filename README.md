@@ -23,8 +23,8 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-SPI
 
 ## Pinagem
-![Slide1](https://user-images.githubusercontent.com/56704375/70345649-494ad700-183b-11ea-9e68-0fd60f4563db.PNG)
 ![Slide2](https://user-images.githubusercontent.com/56704375/70345776-8911be80-183b-11ea-8b6c-712039b9c05b.PNG)
+![Slide1](https://user-images.githubusercontent.com/56704375/70345649-494ad700-183b-11ea-9e68-0fd60f4563db.PNG)
 
 
 ## Possíveis melhorias:
