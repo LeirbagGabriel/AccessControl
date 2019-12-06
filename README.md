@@ -36,6 +36,10 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 ![Fluxograma](https://user-images.githubusercontent.com/56705850/70352146-3a6b2100-1849-11ea-8d6c-a3dcadfaabbf.jpeg)
 
 
+## Fluxograma de alteração de senha
+![Fluxograma2](https://user-images.githubusercontent.com/56705850/70353252-c4b48480-184b-11ea-9fd9-35a1a86d6695.jpeg)
+
+
 ## Possíveis melhorias:
 - Na comunicação Bluetooth-Monitor, poderia ser adicionada também a hora de chegada.
 <br />- A implementação de 3 erros para a senha-mestre.
