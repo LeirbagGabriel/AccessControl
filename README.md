@@ -10,8 +10,7 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 
 Possíveis melhorias:
 -Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
--A implementação de 3 erros para a senha-mestre.
-.Utilização de um banco de dados para armazenagem dos dados mais segura.
+-A implementação de 3 erros para a senha-mestre.Utilização de um banco de dados para armazenagem dos dados mais segura.
 
 
 Problemas Encontrados:
@@ -30,7 +29,7 @@ Materiais utilizados:
 
 
 Dispósitivos do microprocessador utilizados:
--GPIO
+-GPI
 -USART
 -SPI
 
