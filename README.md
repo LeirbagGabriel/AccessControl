@@ -12,19 +12,19 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 
 
 ## Materiais utilizados:
-- 2x STM32F030F4P6 (GREENPILL)
-<br />- Gravador ST-LINK V2
-<br />- Display oLED
-<br />- Teclado matricial 4x4
-<br />- Módulo Bluetooth HC-05
-<br />- 2x LEDs
-<br />- Protoboard e jumpers
+-2x STM32F030F4P6 (GREENPILL)
+<br />-Gravador ST-LINK V2
+<br />-Display oLED
+<br />-Teclado matricial 4x4
+<br />-Módulo Bluetooth HC-05
+<br />-2x LEDs
+<br />-Protoboard e jumpers
 
 
 ## Dispositivos do microprocessador utilizados:
-- GPIO
-<br />- USART
-<br />- SPI
+-GPIO
+<br />-USART
+<br />-SPI
 
 
 ## Pinagem
@@ -41,16 +41,16 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 
 
 ## Possíveis melhorias:
-- Na comunicação Bluetooth-Monitor, poderia ser adicionada também a hora de chegada.
-<br />- A implementação de 3 erros para a senha-mestre.
-<br />- Utilização de um banco de dados para armazenagem mais segura dos dados.
-<br />- Implementar a opção de destravar o sistema a partir do bluetooth.
+-Na comunicação Bluetooth-Monitor, poderia ser adicionada também a hora de chegada.
+<br />-A implementação de 3 erros para a senha-mestre.
+<br />-Utilização de um banco de dados para armazenagem mais segura dos dados.
+<br />-Implementar a opção de destravar o sistema a partir do bluetooth.
 
 
 ## Problemas Encontrados:
-- Não foi possível adicionar mais funcionalidades, pois o sistema utiliza apenas 4Bits para envio de dados entre as duas GreenPills.
-<br />- A implementação da hora de chegada não foi possível, pois a função utilizada não funciona na GreenPill porque ela excede o espaço da memória flash.
-<br />- Um dos principais problemas foi a comunicação entre as duas GreenPills, onde para contornar esse empecilho tivemos que enviar bits a partir de 4Portas da "Placa1" para a "Placa2", e assim ser possível fazer essa transmissão de dados.
+-Não foi possível adicionar mais funcionalidades, pois o sistema utiliza apenas 4Bits para envio de dados entre as duas GreenPills.
+<br />-A implementação da hora de chegada não foi possível, pois a função utilizada não funciona na GreenPill porque ela excede o espaço da memória flash.
+<br />-Um dos principais problemas foi a comunicação entre as duas GreenPills, onde para contornar esse empecilho tivemos que enviar bits a partir de 4Portas da "Placa1" para a "Placa2", e assim ser possível fazer essa transmissão de dados.
 
 
 ## Membros:
