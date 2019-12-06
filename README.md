@@ -23,8 +23,7 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 <br />-SPI
 
 ## Pinagem
-<img src="C:\Usuários\Gabriel\Área de Trabalho\Controle de Acesso\Imagens\Slide1.png
-
+![Slide1](https://user-images.githubusercontent.com/56704375/70345649-494ad700-183b-11ea-9e68-0fd60f4563db.PNG)
 
 ## Possíveis melhorias:
 -Na comunicação Bluetooth-Monitor, poderia ser adicionado também a hora de chegada.
