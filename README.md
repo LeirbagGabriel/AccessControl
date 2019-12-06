@@ -19,12 +19,12 @@ Problemas Encontrados:
 
 
 Materiais utilizados:
--STM32F030F4P6 - GREENPILL
+-STM32F030F4P6 (GREENPILL)
 -Gravador ST-LINK V2
--oLed
+-Display oLED
 -Teclado matricial 4x4
 -Módulo Bluetooth HC-05
--Dois leds
+-Dois LEDs
 -Protoboard e jumpers
 
 
