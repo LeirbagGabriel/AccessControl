@@ -56,5 +56,5 @@ Uso geral para controle de entrada de pessoas em diferentes tipos de ambientes, 
 ## Membros:
 [📧](https://github.com/LeirbagGabriel)Gabriel Castro Marinho                    405229
 <br />[📧](https://github.com/Kazimierz-dev)Gabriela Casimiro de Lima           370065
-<br />[📧](https://github.com/LeirbagGabriel)Rodrigo Maciel Braz                 385618
+<br />[📧](https://github.com/rodrigo-mb)Rodrigo Maciel Braz                 385618
 <br />[📧](https://github.com/thierryos)Francisco Thierry Oliveira Sousa    427340
